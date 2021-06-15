@@ -35,6 +35,14 @@
 			"decimals": 18,
 			"logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
 		},
+	        {
+		        "chainId": 137,
+		        "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+		        "name": "SportX",
+		        "symbol": "SX",
+		        "decimals": 18,
+		        "logoURI": "https://avatars.githubusercontent.com/u/51132555?s=200&v=4"
+	        }
 		{
 			"name": "Aave",
 			"address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
